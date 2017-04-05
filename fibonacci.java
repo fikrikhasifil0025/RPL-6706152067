@@ -6,6 +6,7 @@ public class Fibonacci {
         int n = show.nextInt();
         long fib[] = new long[n];
          
+        //udah berubah 1
         fib[0] = 0;
         fib[1] = 1;
          
